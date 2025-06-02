@@ -1,4 +1,1 @@
-.idea
-.idea/*
-.vscode
-.vs
+.idea|.idea/*.vscode.vstest123
